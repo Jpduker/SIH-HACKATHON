@@ -37,7 +37,7 @@
     "@babylonjs/materials": "5.18.0",
     "@babylonjs/serializers": "^5.18.0",
     "@vladmandic/build": "^0.7.8",
-    "@vladmandic/human": "2.9.3",
+    "@vladmandic/human": "^2.9.3",
     "eslint": "^8.21.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
